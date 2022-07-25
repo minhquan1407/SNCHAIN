@@ -736,3 +736,85 @@ span {
     margin-left: -11px;
     border: 1px solid #DDDDDD;
 }
+.train{
+    margin-top: 40px;
+}
+/* option */
+.option{
+        margin-top: 250px
+}
+.lamp{
+    border-right: 1px solid #C0C0C0;
+}
+.lamp h5{
+    text-align: center;
+}
+.lamp p {
+    text-align: center;
+}
+.eclip6{
+    margin-top: -450px;
+    margin-left: -22px;
+    width: 500px !important;
+    height: 400px !important;
+}
+.movi {
+    border-right: 1px solid #C0C0C0;
+}
+
+.movi h5 {
+    text-align: center;
+}
+
+.movi p {
+    text-align: center;
+}
+.phone {
+    border-right: 1px solid #C0C0C0;
+}
+
+
+.phone h5 {
+    text-align: center;
+}
+
+.phone p {
+    text-align: center;
+}
+.eclip1{
+        margin-top: -550px;
+        margin-left: 40px;
+        width: 500px !important;
+            height: 400px !important;
+}
+.eclip3 {
+    margin-top: -353px;
+    margin-left: 9px;
+    width: 500px !important;
+    height: 334px !important;
+}
+
+
+
+.react h5 {
+    text-align: center;
+}
+
+.react p {
+    text-align: center;
+}
+.img-option{
+    margin: 0 auto;
+        display: flex;
+}
+@media (max-width: 991.98px) {
+    .lamp{
+        border-right: none;
+    }
+    .movi {
+        border-right: none;
+    }
+    .phone {
+        border-right: none;
+    }
+}
